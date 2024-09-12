@@ -1,8 +1,8 @@
 
 This is a fork of gpui-component at this commit.
 
-- [modal: Improve Modal and Panel focus handle. #238](https://github.com/huacnlee/gpui-component/pull/238)
 - September 12, 2024
+- [modal: Improve Modal and Panel focus handle. #238](https://github.com/huacnlee/gpui-component/pull/238)
 - [ce873ca](https://github.com/huacnlee/gpui-component/tree/ce87c3a00138d83ddf1317b7f7bf3c5695c28af6)
 
 This is a fork of Zed at this commit.
